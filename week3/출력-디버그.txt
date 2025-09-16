@@ -1,0 +1,14 @@
+﻿'week3.exe'(Win32): 'C:\Users\com420\Documents\GitHub\1-hello-c-lomio2333-cmd\week3\x64\Debug\week3.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'week3.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\apphelp.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 
+0x273c 스레드가 종료되었습니다(코드: 0 (0x0)).
+'week3.exe'(Win32): 'C:\Windows\System32\kernel.appcore.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\msvcrt.dll'을(를) 로드했습니다. 
+'week3.exe'(Win32): 'C:\Windows\System32\rpcrt4.dll'을(를) 로드했습니다. 
+0x19f4 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2f0c 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[5136] week3.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
